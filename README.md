@@ -1,4 +1,4 @@
 docker-proxy-npm
 ================
 
-NPM requests proxy container based on http-proxy
+Kappa-powered [https://github.com/krakenjs/kappa](https://github.com/krakenjs/kappa) npm proxy container.
